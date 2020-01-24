@@ -1,4 +1,7 @@
 # elly
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b503bbdda5cf47288eab2257b1530cc3)](https://app.codacy.com/manual/janethavi/elly?utm_source=github.com&utm_medium=referral&utm_content=janethavi/elly&utm_campaign=Badge_Grade_Dashboard)
+
 ### Contributing to Elly-Mobile APP
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
